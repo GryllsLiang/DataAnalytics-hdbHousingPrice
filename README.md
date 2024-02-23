@@ -1,0 +1,1 @@
+ This project works on data [HDB Resale Price](https://data.gov.sg/dataset/resale-flat-prices), the process including loading data, imputating data, visualizing data, sampling data and calculating needed factors. It is a very simple data analytics(da) assignment, which helps to understand da process.
